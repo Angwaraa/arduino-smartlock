@@ -19,3 +19,7 @@ Bluetooth Serial Module(HC-06 Slave mode)
 
 <img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196050.jpg" width="200">
 
+Tower Pro SG90 Mini Micro Servo
+
+<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196051.jpg" width="200">
+
