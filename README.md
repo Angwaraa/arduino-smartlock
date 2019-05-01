@@ -4,7 +4,7 @@
 
 Aduino UNO R3        |  USB Cable
 :-------------------------:|:-------------------------:
-![](https://github.com/Angwaraa/arduino-smart-look/blob/master/Images/196045.jpg)  |  ![https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196046.jpg])
+![](https://github.com/Angwaraa/arduino-smart-look/blob/master/Images/196045.jpg)  |  ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196046.jpg)
 
 
 
