@@ -6,15 +6,11 @@ Aduino UNO R3        |  USB Cable
 :-------------------------:|:-------------------------:
 ![](https://github.com/Angwaraa/arduino-smart-look/blob/master/Images/196045.jpg)  |  ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196046.jpg)
 
+สาย Jumper Male to Female            |  Bluetooth Serial Module(HC-06 Slave mode)  | 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196047.jpg)  |  ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196050.jpg)  |  ![]()
 
 
-สาย Jumper Male to Female
-
-<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196047.jpg" width="200">
-
-Bluetooth Serial Module(HC-06 Slave mode)
-
-<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196050.jpg" width="200">
 
 Tower Pro SG90 Mini Micro Servo
 
