@@ -3,10 +3,19 @@
 จึงทำให้เราอยาก จัดทำโปรเจค Arduino smart lock ขึ้นมาเพื่อจำลองระบบรักษาความปลอดภัยของบ้าน โดยการใส่รหัสผ่านโทรศัพท์ เพิ้มความสะดวกสบาย และยังรักษาความปลออดภัยได้มากกว่า เนื่องจากประตูแบบเดิมที่เป็นกลอนหรือกุญแจล็อค จะสามารถถูกงัดแงะได้ ซึ่งง่ายต่อการถูกโจรกรรมในขณะที่เจ้าของไม่อยู่ที่บ้าน
 
 Aduino UNO R3
+:---------------------------:|:---------------------------:|
 
 <img src="https://github.com/Angwaraa/arduino-smart-look/blob/master/Images/196045.jpg" width="200">
 
 USB Cable
 
+<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196046.jpg" width="200">
+
+สาย Jumper Male to Female
+
 <img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196047.jpg" width="200">
+
+Bluetooth Serial Module(HC-06 Slave mode)
+
+<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196050.jpg" width="200">
 
