@@ -9,3 +9,4 @@ Aduino UNO R3
 USB Cable
 
 <img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196047.jpg" width="200">
+
