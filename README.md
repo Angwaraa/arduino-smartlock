@@ -18,7 +18,7 @@ Aduino UNO R3        |  USB Cable  | กลอนประตู
 <img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/diagram.jpg" hight = "500" width = "500">
 
 # How to use arduino smart lock
-<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/diagram.jpg" hight = "500" width = "500">
+<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/1234.jpg" hight = "500" width = "500">
 
 * "UNLOCK" = กดปุ่มunlock บนApplication บนมือถือ เพื่อสั่งให้ส่งค่าData คือ 1(รหัสผ่านปลดล๊อคที่ต้ั้งไว้) เพื่อนำไปอ่านค่า บน Arduino IDE เพื่อสั่งให้โมเดลทำการปลดล๊อค
 * "LOCK" = กดปุ่มlock บนApplication บนมือถือ เพื่อสั่งให้ส่งค่าData คือ 0(รหัสผ่านล๊อคที่ต้ั้งไว้) เพื่อนำไปอ่านค่า บน Arduino IDE เพื่อสั่งให้โมเดลทำการล๊อค
