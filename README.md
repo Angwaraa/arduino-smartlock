@@ -15,7 +15,7 @@ Aduino UNO R3        |  USB Cable  | กลอนประตู
 
 # Diagram in Arduino Smart lock
 
-<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/Lock%20System.jpg" hight = "500" width = "500">
+<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/diagram.jpg" hight = "500" width = "500">
 
 # How to use arduino smart lock
 <img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/diagram.jpg" hight = "500" width = "500">
