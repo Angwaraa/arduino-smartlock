@@ -28,8 +28,8 @@ Aduino UNO R3        |  USB Cable  | กลอนประตู
 # ![](img/Person.png) Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-|![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/51200822_1486256878178021_5890411946972282880_n.jpg)|Angwara|Paolaklaem|[@Angwaraa](https://github.com/Angwaraa)|61070351|
-|![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/Pakjira.jpg)|Phatjira|Suknaboon|[@Phatjira Suknaboon](https://github.com/Phatjira)|61070344|
-|![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/65756.jpg)|Saranchana|Yiwpapan|[@bamss1503](https://github.com/bamss1503)|61070236|
-|![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/21430239_1380369728678225_8475190223276262180_n.jpg)|Kittamate|Saenprang|[@snowneymotex](https://github.com/snowneymotex)|61070336|
+|<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/51200822_1486256878178021_5890411946972282880_n.jpg" hight = "100" width = "100">|Angwara|Paolaklaem|[@Angwaraa](https://github.com/Angwaraa)|61070351|
+|<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/Pakjira.jpg" hight = "100" width = "100">|Phatjira|Suknaboon|[@Phatjira Suknaboon](https://github.com/Phatjira)|61070344|
+|<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/65756.jpg" hight = "100" width = "100">|Saranchana|Yiwpapan|[@bamss1503](https://github.com/bamss1503)|61070236|
+|<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/21430239_1380369728678225_8475190223276262180_n.jpg" hight = "100" width = "100">|Kittamate|Saenprang|[@snowneymotex](https://github.com/snowneymotex)|61070336|
 
