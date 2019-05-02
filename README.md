@@ -9,8 +9,27 @@ Aduino UNO R3        |  USB Cable  | กลอนประตู
 ![](https://github.com/Angwaraa/arduino-smart-look/blob/master/Images/196045.jpg)  |  ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196046.jpg)   | ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196052.jpg)
 
 
-สาย Jumper Male to Female            |  Bluetooth Serial Module(HC-06 Slave mode)  |  Tower Pro SG90 Mini Micro Servo
+สาย Jumper Male to Female            |  Bluetooth Serial Module(HC-05 Slave mode)  |  Tower Pro SG90 Mini Micro Servo
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196047.jpg)  |  ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196050.jpg)  |  ![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/196051.jpg)
 
+# Diagram in Arduino Smart lock
+
+<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/Lock%20System.jpg" hight = "500" width = "500">
+
+# How to use arduino smart lock
+<img src="https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/1.jpg" hight = "500" width = "500">
+
+* "UNLOCK" = กดปุ่มunlock บนApplication บนมือถือ เพื่อสั่งให้ส่งค่าData คือ 1(รหัสผ่านปลดล๊อคที่ต้ั้งไว้) เพื่อนำไปอ่านค่า บน Arduino IDE เพื่อสั่งให้โมเดลทำการปลดล๊อค
+* "LOCK" = กดปุ่มlock บนApplication บนมือถือ เพื่อสั่งให้ส่งค่าData คือ 0(รหัสผ่านล๊อคที่ต้ั้งไว้) เพื่อนำไปอ่านค่า บน Arduino IDE เพื่อสั่งให้โมเดลทำการล๊อค
+
+---
+
+# ![](img/Person.png) Team Members
+|  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
+|:-:|--|------|---------------|---------|
+|![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/51200822_1486256878178021_5890411946972282880_n.jpg)|Angwara|Paolaklaem|[@Angwaraa](https://github.com/Angwaraa)|61070351|
+|![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/Pakjira.jpg)|Phatjira|Suknaboon|[@Phatjira Suknaboon](https://github.com/Phatjira)|61070344|
+|![](https://github.com/Angwaraa/arduino-smart-lock/blob/master/Images/65756.jpg)|Saranchana|Yiwpapan|[@bamss1503](https://github.com/bamss1503)|61070236|
+|![](img/59070156.png)|Vasanchai|Prakobkij|[@59070156](https://github.com/@59070156)|59070156|
 
